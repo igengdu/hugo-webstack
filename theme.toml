@@ -1,18 +1,18 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "hugo-webstack"
+name = "Webstack"
 license = "MIT"
 licenselink = "https://github.com/oulh/hugo-webstack/blob/master/LICENSE"
-description = "a theme for website navigation, it's based on webstack. "
-homepage = "https://oulh.github.io/nav/"
+description = "A theme for website navigation, it's based on webstack. "
+homepage = "https://igengdu.github.io/nav/"
 tags = ["url", "navigation", "webstack"]
 features = ["minimalism", "simple"]
 min_version = "0.116.1"
 
 [author]
-  name = "oulh"
-  homepage = "https://oulh.github.io/nav/"
+  name = "iGdu"
+  homepage = "https://igengdu.github.io/nav/"
 
 # If porting an existing theme
 [original]
